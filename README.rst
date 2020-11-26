@@ -15,7 +15,7 @@ baseline
 
 
 
-Baseline multi-class text classifierss
+Baseline multi-class text classifiers
 
 
 * Free software: MIT license
