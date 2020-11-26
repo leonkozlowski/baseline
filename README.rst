@@ -2,17 +2,12 @@
 baseline
 ========
 
-
-.. image:: https://img.shields.io/pypi/v/baseline.svg
-        :target: https://pypi.python.org/pypi/baseline
-
 .. image:: https://img.shields.io/travis/leonkozlowski/baseline.svg
         :target: https://travis-ci.com/leonkozlowski/baseline
 
 .. image:: https://readthedocs.org/projects/baseline/badge/?version=latest
         :target: https://baseline.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
-
 
 .. image:: https://pyup.io/repos/github/leonkozlowski/baseline/shield.svg
      :target: https://pyup.io/repos/github/leonkozlowski/baseline/
