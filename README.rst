@@ -2,26 +2,8 @@
 baseline
 ========
 
-.. image:: https://img.shields.io/travis/leonkozlowski/baseline.svg
-        :target: https://travis-ci.com/leonkozlowski/baseline
-
-.. image:: https://pyup.io/repos/github/leonkozlowski/baseline/shield.svg
-     :target: https://pyup.io/repos/github/leonkozlowski/baseline/
-     :alt: Updates
-
-
-
 Baseline multi-class text classifiers
 
-
-* Free software: MIT license
-* Documentation: https://baseline.readthedocs.io.
-
-
-Features
---------
-
-* TODO
 
 Credits
 -------
