@@ -2,7 +2,7 @@
 baseline
 ========
 
-Baseline multi-class text classifiers
+Baseline multiclass text classifiers
 
 
 Credits
