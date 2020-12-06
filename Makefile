@@ -24,7 +24,7 @@ export PRINT_HELP_PYSCRIPT
 BROWSER := python -c "$$BROWSER_PYSCRIPT"
 
 lint: ## check style with flake8
-	flake8 baseline tests
+	flake8 baseline
 
 test: ## run tests quickly with the default Python
 	pytest
@@ -33,7 +33,7 @@ test-verbose: ## run tests on every Python version with tox
 	pytest -vv --cov=baseline --cov-report term-missing
 
 black: ## format with black
-	black --line-length 78 baseline tests
+	black --line-length 78 baseline
 
 isort: ## format and sort ipmorts
 	isort --multi-line 3 --trailing-comma .
