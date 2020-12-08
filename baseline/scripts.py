@@ -145,6 +145,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-
+    main()  # Create base dataset
     create_wbn_dataset(size=300)
